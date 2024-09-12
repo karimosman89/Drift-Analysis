@@ -1,0 +1,9 @@
+pandas
+numpy
+requests
+scikit-learn
+evidently
+datetime
+io
+warnings
+zipfile
